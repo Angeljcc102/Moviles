@@ -1,18 +1,16 @@
 [
   {
-    "login": "mojodna",
-    "id": 45,
-    "node_id": "MDQ6VXNlcjQ1",
-    "avatar_url": "ekm",
-    "gravatar_id": "fhgdf",
-    "url": "dhj"
+    "name": "Angel",
+    "hobby": "Games",
+    "age": 22,
+    "phone": 3455433452,
+    "address": "Tlaxcala"
   },
   {
-    "login": "mojodna",
-    "id": 45,
-    "node_id": "MDQ6tretVXNlcjQ1",
-    "avatar_url": "er=4",
-    "gravatar_id": "erf",
-    "url": "pj"
+    "name": "Alexis",
+    "hobby": "Math",
+    "age": 24,
+    "phone": 7891236543,
+    "address": "Durango"
   }
 ]
