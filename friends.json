@@ -2,15 +2,15 @@
   {
     "name": "Angel",
     "hobby": "Games",
-    "age": 22,
-    "phone": 3455433452,
+    "age": "22",
+    "phone": "3455433452",
     "address": "Tlaxcala"
   },
   {
     "name": "Alexis",
     "hobby": "Math",
-    "age": 24,
-    "phone": 7891236543,
+    "age": "24",
+    "phone": "7891236543",
     "address": "Durango"
   }
 ]
