@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Angel",
+    "hobby": "Games",
+    "age": "22",
+    "phone": "7774444321"
+    "address": "Guadalajara"
+  },
+    {
+    "name": "Alexis",
+    "hobby": "Maths",
+    "age": "24",
+    "phone": "3334264351"
+    "address": "Zapopan"
+  }
+]
